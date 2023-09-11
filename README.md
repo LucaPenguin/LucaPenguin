@@ -11,7 +11,7 @@ just a nobody want to lean about coding , develeoper and improved my skill more 
 ```mermaid
 graph LR
 A[Penguin] --> B((Lerning))
-B --> C((Do some code shit))
+B --> C((Do Some Shit Code))
 C --> D((Relase))
 D --> E(Feedback / Money)
 E --> A
